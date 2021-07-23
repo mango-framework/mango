@@ -1,0 +1,37 @@
+/* Mango */
+
+.mango-500 {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mango-600 {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mango-700 {
+    max-width: 700px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mango-800 {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mango-900 {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mango-1000 {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
